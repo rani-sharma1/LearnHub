@@ -41,7 +41,7 @@
 
 /* Hero Section */
 .hero {
-  background: url("../img/online-school-better.jpg") no-repeat center center/cover;
+  background: url("online-school-better.jpg") no-repeat center center/cover;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -210,4 +210,5 @@
   padding-top: 15px;
   font-size: 13px;
 }
+
 
